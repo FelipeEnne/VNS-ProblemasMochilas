@@ -1,0 +1,39 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(387,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Projeto3.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  main.cpp
+c:\users\felipe.desktop-sd9eh44\desktop\programas\aula\heuristica\final\problema da mochila3 - copia\projeto3\main.cpp(75): warning C4018: '<=': incompatibilidade de signed/unsigned
+c:\users\felipe.desktop-sd9eh44\desktop\programas\aula\heuristica\final\problema da mochila3 - copia\projeto3\main.cpp(78): warning C4018: '<=': incompatibilidade de signed/unsigned
+c:\users\felipe.desktop-sd9eh44\desktop\programas\aula\heuristica\final\problema da mochila3 - copia\projeto3\main.cpp(104): warning C4018: '<=': incompatibilidade de signed/unsigned
+c:\users\felipe.desktop-sd9eh44\desktop\programas\aula\heuristica\final\problema da mochila3 - copia\projeto3\main.cpp(107): warning C4018: '<=': incompatibilidade de signed/unsigned
+c:\users\felipe.desktop-sd9eh44\desktop\programas\aula\heuristica\final\problema da mochila3 - copia\projeto3\main.cpp(133): warning C4018: '<=': incompatibilidade de signed/unsigned
+c:\users\felipe.desktop-sd9eh44\desktop\programas\aula\heuristica\final\problema da mochila3 - copia\projeto3\main.cpp(141): warning C4018: '<=': incompatibilidade de signed/unsigned
+c:\users\felipe.desktop-sd9eh44\desktop\programas\aula\heuristica\final\problema da mochila3 - copia\projeto3\main.cpp(155): warning C4018: '<=': incompatibilidade de signed/unsigned
+c:\users\felipe.desktop-sd9eh44\desktop\programas\aula\heuristica\final\problema da mochila3 - copia\projeto3\main.cpp(167): warning C4018: '<=': incompatibilidade de signed/unsigned
+c:\users\felipe.desktop-sd9eh44\desktop\programas\aula\heuristica\final\problema da mochila3 - copia\projeto3\main.cpp(176): warning C4018: '<=': incompatibilidade de signed/unsigned
+c:\users\felipe.desktop-sd9eh44\desktop\programas\aula\heuristica\final\problema da mochila3 - copia\projeto3\main.cpp(184): warning C4018: '<=': incompatibilidade de signed/unsigned
+c:\users\felipe.desktop-sd9eh44\desktop\programas\aula\heuristica\final\problema da mochila3 - copia\projeto3\main.cpp(191): warning C4018: '<=': incompatibilidade de signed/unsigned
+c:\users\felipe.desktop-sd9eh44\desktop\programas\aula\heuristica\final\problema da mochila3 - copia\projeto3\main.cpp(198): warning C4018: '<=': incompatibilidade de signed/unsigned
+c:\users\felipe.desktop-sd9eh44\desktop\programas\aula\heuristica\final\problema da mochila3 - copia\projeto3\main.cpp(218): warning C4018: '<=': incompatibilidade de signed/unsigned
+c:\users\felipe.desktop-sd9eh44\desktop\programas\aula\heuristica\final\problema da mochila3 - copia\projeto3\main.cpp(270): warning C4018: '<=': incompatibilidade de signed/unsigned
+c:\users\felipe.desktop-sd9eh44\desktop\programas\aula\heuristica\final\problema da mochila3 - copia\projeto3\main.cpp(290): warning C4018: '<=': incompatibilidade de signed/unsigned
+c:\users\felipe.desktop-sd9eh44\desktop\programas\aula\heuristica\final\problema da mochila3 - copia\projeto3\main.cpp(292): warning C4018: '<=': incompatibilidade de signed/unsigned
+c:\users\felipe.desktop-sd9eh44\desktop\programas\aula\heuristica\final\problema da mochila3 - copia\projeto3\main.cpp(322): warning C4018: '<=': incompatibilidade de signed/unsigned
+c:\users\felipe.desktop-sd9eh44\desktop\programas\aula\heuristica\final\problema da mochila3 - copia\projeto3\main.cpp(383): warning C4018: '<=': incompatibilidade de signed/unsigned
+c:\users\felipe.desktop-sd9eh44\desktop\programas\aula\heuristica\final\problema da mochila3 - copia\projeto3\main.cpp(386): warning C4018: '<=': incompatibilidade de signed/unsigned
+c:\users\felipe.desktop-sd9eh44\desktop\programas\aula\heuristica\final\problema da mochila3 - copia\projeto3\main.cpp(418): warning C4018: '<=': incompatibilidade de signed/unsigned
+c:\users\felipe.desktop-sd9eh44\desktop\programas\aula\heuristica\final\problema da mochila3 - copia\projeto3\main.cpp(424): warning C4018: '<=': incompatibilidade de signed/unsigned
+c:\users\felipe.desktop-sd9eh44\desktop\programas\aula\heuristica\final\problema da mochila3 - copia\projeto3\main.cpp(430): warning C4018: '<=': incompatibilidade de signed/unsigned
+c:\users\felipe.desktop-sd9eh44\desktop\programas\aula\heuristica\final\problema da mochila3 - copia\projeto3\main.cpp(454): warning C4018: '<=': incompatibilidade de signed/unsigned
+c:\users\felipe.desktop-sd9eh44\desktop\programas\aula\heuristica\final\problema da mochila3 - copia\projeto3\main.cpp(653): warning C4018: '<=': incompatibilidade de signed/unsigned
+c:\users\felipe.desktop-sd9eh44\desktop\programas\aula\heuristica\final\problema da mochila3 - copia\projeto3\main.cpp(682): warning C4018: '<=': incompatibilidade de signed/unsigned
+c:\users\felipe.desktop-sd9eh44\desktop\programas\aula\heuristica\final\problema da mochila3 - copia\projeto3\main.cpp(763): warning C4018: '<': incompatibilidade de signed/unsigned
+c:\users\felipe.desktop-sd9eh44\desktop\programas\aula\heuristica\final\problema da mochila3 - copia\projeto3\main.cpp(805): warning C4018: '<': incompatibilidade de signed/unsigned
+c:\users\felipe.desktop-sd9eh44\desktop\programas\aula\heuristica\final\problema da mochila3 - copia\projeto3\main.cpp(893): warning C4018: '<': incompatibilidade de signed/unsigned
+c:\users\felipe.desktop-sd9eh44\desktop\programas\aula\heuristica\final\problema da mochila3 - copia\projeto3\main.cpp(935): warning C4018: '<': incompatibilidade de signed/unsigned
+c:\users\felipe.desktop-sd9eh44\desktop\programas\aula\heuristica\final\problema da mochila3 - copia\projeto3\main.cpp(948): warning C4018: '<': incompatibilidade de signed/unsigned
+c:\users\felipe.desktop-sd9eh44\desktop\programas\aula\heuristica\final\problema da mochila3 - copia\projeto3\main.cpp(1040): warning C4018: '<': incompatibilidade de signed/unsigned
+c:\users\felipe.desktop-sd9eh44\desktop\programas\aula\heuristica\final\problema da mochila3 - copia\projeto3\main.cpp(1082): warning C4018: '<': incompatibilidade de signed/unsigned
+c:\users\felipe.desktop-sd9eh44\desktop\programas\aula\heuristica\final\problema da mochila3 - copia\projeto3\main.cpp(1095): warning C4018: '<': incompatibilidade de signed/unsigned
+c:\users\felipe.desktop-sd9eh44\desktop\programas\aula\heuristica\final\problema da mochila3 - copia\projeto3\main.cpp(1780): warning C4018: '<': incompatibilidade de signed/unsigned
+c:\users\felipe.desktop-sd9eh44\desktop\programas\aula\heuristica\final\problema da mochila3 - copia\projeto3\main.cpp(1795): warning C4018: '<': incompatibilidade de signed/unsigned
+  Projeto3.vcxproj -> C:\Users\Felipe.DESKTOP-SD9EH44\Desktop\Programas\Aula\Heuristica\Final\Problema da Mochila3 - Copia\Debug\Teste.exe
+  Projeto3.vcxproj -> C:\Users\Felipe.DESKTOP-SD9EH44\Desktop\Programas\Aula\Heuristica\Final\Problema da Mochila3 - Copia\Debug\Teste.pdb (Partial PDB)
